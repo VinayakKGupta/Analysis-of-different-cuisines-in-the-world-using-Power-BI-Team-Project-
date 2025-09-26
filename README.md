@@ -1,11 +1,21 @@
-## Key Findings from the Analysis ##
+## Key Findings from the Analysis ( Team Project ) ##
 
 ### 1) Which U.S. region demonstrates the highest potential for expansion based on consumer interest and knowledge of world cuisines, and how should the franchise localize its offerings there? ###
+
+
+<img width="846" height="466" alt="image" src="https://github.com/user-attachments/assets/8c201638-fe5d-4a7e-834c-eaac738da82e" />
 
 
 The Pacific region stands out as the best opportunity for expansion because it recorded the highest participation rate in the survey and also the strongest cuisine knowledge levels, with nearly 45% of respondents rating themselves as medium knowledge and around 16% as highly knowledgeable. This suggests that consumers in this region are both familiar with and enthusiastic about trying global cuisines. Italian cuisine, which consistently received the top ratings (with more than 60% of respondents rating it “high”), should be the centerpiece of the menu, while Mexican and American cuisines—both of which ranked among the top three—can serve as attractive secondary offerings. To connect with local tastes, the franchise could introduce Pacific-inspired Italian dishes or highlight the use of locally sourced ingredients, which aligns with the region’s preference for health-conscious and sustainable dining. This data-driven approach minimizes risk and maximizes the chance of capturing a loyal customer base in the Pacific market.
 
 ### 2) Among different age and income groups, which segment provides the best balance of high interest, knowledge, and spending ability, and how should marketing campaigns be tailored to attract them? ###
 
+<img width="881" height="499" alt="image" src="https://github.com/user-attachments/assets/be9f066f-81f2-4199-a152-08d9fc6b770c" />
+
+
 The middle-aged group (45–60 years old) with household incomes of $50,000–$99,999 offers the best balance of knowledge, interest, and spending power. Nearly 45% of them reported medium knowledge of world cuisines and 16% high knowledge, making them confident diners, while their income gives them strong purchasing ability. Italian cuisine, which over 60% of respondents rated highly, should be the primary focus, supported by Mexican and American dishes. Marketing to this group should highlight authenticity, quality, and value, using loyalty programs and family-oriented promotions. Younger groups (18–44) showed higher overall interest in global cuisines, so interactive experiences like tastings or pop-ups can help build long-term loyalty with them.
+
+### 3) How can the franchise optimize its menu to reduce costs while still maximizing customer satisfaction by focusing only on top-performing cuisines? ###
+
+The data shows that Italian, Mexican, and American cuisines received the highest ratings, with Italian alone having over 60% high ratings. By concentrating on these top three cuisines, the franchise can streamline its menu, reduce costs tied to stocking low-demand ingredients, and still capture the majority of customer preferences. This creates both cost savings (by cutting underperforming cuisines) and growth opportunities (by refining and promoting the most popular dishes).
 
